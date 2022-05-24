@@ -1,0 +1,33 @@
+body {
+  background-image: url("nba1.jpg");
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+
+
+}
+
+.textini1{
+  color: #fff;
+}
+
+.textini2{
+border:solid black 4px;
+margin-left: 600px;
+margin-right: 600px;
+margin-top: 150px;
+margin-bottom: 100px;
+border-radius: 25px;
+overflow: hidden;
+}
+.textini3{
+  border:solid black 2px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.form1{
+  height: 100%;
+  width: 100%;
+  
+}

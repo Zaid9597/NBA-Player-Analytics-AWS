@@ -1,0 +1,169 @@
+.button1 {
+  margin-bottom: 1px;
+  margin-left: 2px;
+  background-color:#2484b8;
+  color: #fff;
+  border-radius:10px; 
+  padding:6px;
+  min-width: 12px;
+  position: inherit;
+}
+
+.button1:hover{
+  background-color:#63bbea;
+}
+
+.nav-border {
+  margin-left: 250px;
+  min-width: 300px;
+  border-radius: 10px;
+  padding:6px; 
+  }
+
+.table-border {
+    border:solid black 5px;
+    border-radius:10px;
+}
+
+.navbar1{
+  background-color:#0e2532;
+  z-index: 1;
+  height: 60px;
+}
+
+.tabletop{
+  background-color:#222627;
+  color: #fff;
+}
+
+.bdr {
+  border-radius: 15px;
+  border-color: #0c0c0c;
+  overflow: hidden;
+}
+
+.bdrsearch {
+  border:solid black 3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.mainsearch{
+  max-width: 600px;
+}
+
+.mainPlayer{
+  background-color:#313b3c;
+  color: #fff;
+  min-height: 60px;
+}
+
+.bdrsearch2 {
+  border:solid black 5px;
+  border-radius: 15px;
+  overflow: hidden; 
+}
+
+.tabletop2{
+  background-color:#232637;
+  color: #fff;
+}
+
+.body1{
+  background-color: rgb(1, 1, 1);
+  color: #fff;
+}
+
+.body2{
+  background-color: rgba(0, 0, 0, 0.823);
+
+}
+.body3{
+  background-color: rgba(0, 0, 0, 0.521);
+
+}
+.innertables{
+  border:solid black 5px;
+}
+
+.innertext{
+  color: #fff;
+}
+
+.profile1{
+  margin-left: 10px;
+}
+
+.profileadd {
+  border-radius: 10px;
+  padding:1px; 
+  }
+
+.profilebdr {
+  border-radius: 12px;
+  border-color: #0c0c0c;
+  overflow: hidden;
+  max-width: 350px;
+}
+.profilemain{
+  margin-left: 600px;
+}
+
+.searchloc{
+  position: fixed;
+  z-index: 2;
+  margin-left: 350px;
+  margin-top: 10px;
+}
+
+.searchdrop{
+  position: fixed;
+  margin-left: 600px;
+  margin-top: 55px;
+  background-color: #1a1a1afc;
+  width: 300px;
+  border-radius: 20px;
+}
+
+.greenar{
+  color: green;
+  margin-left: 20px;
+  margin-top: -28px;
+}
+
+.redar{
+  color: red;
+  margin-left: 20px;
+  margin-top: -28px;
+}
+
+.greenar2{
+  color: green;
+  margin-left: 20px;
+  margin-top: -34px;
+}
+
+.redar2{
+  color: red;
+  margin-left: 20px;
+  margin-top: -34px;
+}
+
+.searchfix{
+  margin-top: 10px;
+  margin-bottom: -3px;
+
+  color: #fff;
+}
+
+.searchfix2{
+  margin-top: 15px;
+  color: #fff;
+}
+.searchfix3{
+  margin-top: 7px;
+}
+
+.homerankfix{
+  margin-bottom: -10px;
+}
